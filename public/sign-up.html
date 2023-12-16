@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/styles.css">
+        <title>Sign Up</title>
+    </head>
+    <body>
+        <div class="login">
+            <h1 class="login__text">Sign Up</h1>
+            <form action="/api/sign-up" method="POST">
+                <fieldset>
+                    <label class="login__label" for="username">Username</label>
+                    <input type="text" class="login__input" id="username" name="username" required>
+                </fieldset>
+                <fieldset>
+                    <label class="login__label" for="password">Password</label>
+                    <input type="password" class="login__input" id="password" name="password" minlength=8 required>
+                </fieldset>
+                <input type="submit" class="login__submit" value="SIGN UP">
+            </form>
+            <p class="login__text">Already have an account? <a href="/sign-in">Sign in.</a></p>
+        </div>
+    </body>
+</html>

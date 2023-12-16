@@ -37,5 +37,8 @@ By default, the program can be accessed on ``http://localhost:8080`` or from ano
 
 ## Screenshots
 ![404](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/b9d85cec-9070-459f-9ea9-b84f03cc6099)
-![sign-up](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/00b2f969-4a25-408e-a13c-ffe03cecef7c)
-
+![sign-up](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/920fe3f0-45cf-4476-acdc-78a4a211ef1b)
+![sign-in](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/9f5f4f96-2616-4703-8483-2f457b6b83f3)
+![home](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/787366ec-0792-455a-ab27-96a7632e7e70)
+![edit](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/89b486de-e972-4134-9be5-e0b117e71bf9)
+![delete](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/1cb1ec60-6442-472c-8b7a-38766752095a)

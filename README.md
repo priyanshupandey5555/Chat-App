@@ -36,18 +36,6 @@ A chatroom website written in Node.js using Socket.IO for communication between 
 By default, the program can be accessed on ``http://localhost:8080`` or from another machine on your network, ``http://<YOUR IP ADDRESS>:8080``.
 
 ## Screenshots
-
-<img src="screenshots/sign-in.png" alt="Sign In form" style="width: 100%">
-
-<img src="screenshots/sign-up.png" alt="Sign Up form" style="width: 100%">
-
-<img src="screenshots/home.png" alt="Homepage" style="width: 100%">
-
-<img src="screenshots/edit.png" alt="Edit account page" style="width: 100%">
-
-<img src="screenshots/delete.png" alt="Delete account page" style="width: 100%">
-
-<img src="screenshots/404.png" alt="Error 404 not found" style="width: 100%">
-
+![404](https://github.com/priyanshupandey5555/Chat-App/assets/105301236/b9d85cec-9070-459f-9ea9-b84f03cc6099)
 
 ```
